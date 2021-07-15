@@ -1,10 +1,4 @@
-# Node.js Authentication
 
-Implementation of node.js authentication with social login ✌️, user impersonation 💅, and no passport.js required 💁
-
-This is the example repository from the blog post ['🛑 You don't need passport.js - Guide to node.js authentication ✌️'](https://softwareontheroad.com/nodejs-jwt-authentication-oauth?utm_source=github&utm_medium=readme)
-
-Please read the blog post in order to have a good understanding of the server architecture.
 
 
 ## Development
